@@ -6,4 +6,5 @@ opencv-python
 transformers
 torch
 numpy
-regexwhat
+regex
+pdf2image
