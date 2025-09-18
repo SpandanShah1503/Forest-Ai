@@ -1,3 +1,9 @@
 pytesseract 
 Pillow
 spacy 
+
+opencv-python
+transformers
+torch
+numpy
+regexwhat
