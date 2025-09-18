@@ -8,3 +8,4 @@ torch
 numpy
 regex
 pdf2image
+streamlit
