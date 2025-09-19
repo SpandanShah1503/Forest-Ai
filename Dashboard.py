@@ -13,4 +13,7 @@ st.code(code_example, language = "python")
 
 st.divider()
 
-st.button("Submit Document")
+with st.form(key = "Form"):
+
+  st.file_uploader("Upload Your PDF")
+  st.form_submit_button() 
